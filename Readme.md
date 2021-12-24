@@ -5,9 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Clotic-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-isidorsson-457027148/)
 [![Mail Badge](https://img.shields.io/badge/-Clotic-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:isidorssona@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Clotic-c0392b?style=flat&labelColor=c0392b&logo=discord&logoColor=white)](https://discordapp.com/users/Clotic#5747)
-
-
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cloticc&layout=compact&theme=dracula)](https://github.com/Cloticc/github-readme-stats)
 #### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloticc&show_icons=true&theme=dracula)
-
-
+![Cloticc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloticc&show_icons=true&theme=dracula)
