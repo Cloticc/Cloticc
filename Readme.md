@@ -1,4 +1,4 @@
-## Hi I'm Andreas
+## Hello there. I'm Andreas
 <div align="center">
   <a href="https://www.youtube.com/channel/UCAapQPihoSGKeLb4tcksqCA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/Clotic_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
