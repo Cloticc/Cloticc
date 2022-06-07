@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/andreas-isidorsson-457027148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Metrics](https://metrics.lecoq.io/Cloticc?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FStockholm)
+
 
 <div align="center">
   <a href="https://github.com/Cloticc">
