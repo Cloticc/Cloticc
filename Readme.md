@@ -11,7 +11,7 @@
 <div align="center">
 
  ![Metrics](https://metrics.lecoq.io/Cloticc?template=classic&wakatime=1&base.indepth=false&base.hireable=false&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Europe%2FStockholm)
-
+![Metrics](https://metrics.lecoq.io/Cloticc?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FStockholm)
   <a href="https://github.com/Cloticc">
   <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cloticc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloticc&layout=compact&langs_count=7&theme=dracula"/>
